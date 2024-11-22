@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    border: 0;
+    border-collapse: collapse;
+}
+
+.info1 {
+    background-color: rgb(46, 81, 74);
+    
+
+}
+
+
+
+
+
+
+table {
+    margin-top: 70px;
+    width: 90%;
+    color: rgb(231, 232, 233);
+    background-color: rgb(74, 77, 79);
+    text-align: left;
+
+}
+
+th {
+    text-align: left;
+}
+
+.col1 {
+    width: 40px;
+    text-align: auto;
+}
+
+span {
+    display: block;
+
+}
+
+img {
+    display: block;
+    float: left;
+    margin-right: 10px;
+}
